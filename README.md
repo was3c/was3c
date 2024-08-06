@@ -1,4 +1,4 @@
-## Hello! I'm Wasley! - Welcome to My Information Security Repository 🛡️🔐
+## Hi! I'm Wasley! - Welcome to My Information Security Repository 🛡️🔐
 
 I am **22 years old** and a student of **Information Security**. I am deeply passionate about technology and dedicated to **cyber defense**. This repository serves as a space where I share my **scripts** and **code** focused on security practices and data protection.
 
